@@ -1,3 +1,6 @@
-title: Your Student Association Name
-description: Brief description of your association
-theme: minima
+title: AESBCSUM - 
+description: Association des étudiants en sciences biomédicales aux cycles supérieurs de l'Université de Montréal
+theme: jekyll-theme-cayman
+
+# Customize the header colors (optional)
+color-scheme: auto
