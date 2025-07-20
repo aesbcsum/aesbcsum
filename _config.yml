@@ -1,6 +1,25 @@
-title: AESBCSUM - 
-description: Association des étudiants en sciences biomédicales aux cycles supérieurs de l'Université de Montréal
-theme: jekyll-theme-cayman
+title: AESBCSUM
+description: Association des Étudiants en Sciences Biomédicales aux Cycles Supérieurs de l'Université de Montréal
+url: "https://aesbcsum.github.io"
 
-# Customize the header colors (optional)
-color-scheme: auto
+# Paramètres du site
+lang: fr
+email: aesbcsum@gmail.com
+
+# Désactiver le thème par défaut pour utiliser notre layout personnalisé
+theme: 
+
+# Plugin Jekyll pour GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Configuration Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Exclusions
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
