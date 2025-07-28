@@ -6,8 +6,8 @@ title: Accueil
 <div class="container">
     <section class="section">
         <div class="card">
-            <h2>Excellence en Recherche Biomédicale</h2>
-            <p style="font-size: 1.1rem; color: #64748b;">L'AESBCSUM représente l'élite des étudiants-chercheurs en sciences biomédicales de l'Université de Montréal. Notre mission consiste à promouvoir l'excellence académique, faciliter les collaborations scientifiques et défendre les intérêts de nos membres dans leur parcours de recherche avancée.</p>
+            <h2>Votre association étudiante</h2>
+            <p style="font-size: 1.1rem; color: #64748b;">L'AESBCSUM regroupe les étudiants aux cycles supérieurs en sciences biomédicales de l'UdeM. Nous organisons des événements de réseautage, offrons du soutien académique et représentons vos intérêts auprès de l'université.</p>
         </div>
     </section>
 
