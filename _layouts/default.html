@@ -63,14 +63,22 @@
 
         .logo-container {
             margin-bottom: 2rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
         }
 
         .logo {
-            width: auto;
-            height: auto;
+            width: 200px;                    /* Plus grand pour être visible */
+            height: auto;                    /* Garde les proportions */
+            max-height: 150px;               /* Limite la hauteur */
             object-fit: contain;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
             backdrop-filter: blur(10px);
+            background: rgba(255, 255, 255, 0.1);  /* Fond légèrement transparent */
+            padding: 10px;                   /* Un peu d'espace autour */
+            border-radius: 8px;              /* Coins arrondis subtils */
         }
 
         .hero-title {
