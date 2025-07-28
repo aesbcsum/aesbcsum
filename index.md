@@ -79,7 +79,7 @@ title: Accueil
             </div>
             
             <div class="team-member">
-                <img src="Simon.jpg" alt="Trésorier class="member-photo">
+                <img src="Simon.jpg" alt="Trésorier" class="member-photo">
                 <div class="member-name">Simon Lemyre</div>
                 <div class="member-role">Trésorier</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
