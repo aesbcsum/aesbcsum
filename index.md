@@ -57,7 +57,7 @@ title: Accueil
                 <div class="member-name">Arman Sarshoghi</div>
                 <div class="member-role">Président</div>
                 <div class="member-program">Maîtrise en Sciences Biomédicales</div>
-                <div class="member-description">Arman Sarshoghi, Président de l'AESBCSUM. Je suis étudiant en médecine, et je suis dans la dernière année de ma maîtrise en médecine expréimentale. Je travaille au laboratoire du Dr. Liberman au CHUM - et j'explore les mécanismes cellulaires dans la cryoablation du cancer du poumon.</div>
+                <div class="member-description">Je suis étudiant en médecine, et je suis dans la dernière année de ma maîtrise en médecine expérimentale. Je travaille au laboratoire du Dr. Liberman au CHUM - et j'explore les mécanismes cellulaires dans la cryoablation du cancer du poumon.</div>
             </div>
             
             <div class="team-member">
@@ -65,7 +65,7 @@ title: Accueil
                 <div class="member-name">Jennifer Zevounou</div>
                 <div class="member-role">Vice-Présidente</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
-                <div class="member-description">Jennifer Zevounou, Vice Présidente de l'AESBCSUM. Je suis étudiante en première année de doctorat dans le laboratoire du Dr Lettre à l'Institut de Cardiologie de Montréal. Ma recherche porte sur l'étude des variants génétiques associés aux maladies cardiovasculaires. Dans mon temps libre j'aime lire, jouer au tennis et sortir avec mes amis !</div>
+                <div class="member-description">Je suis étudiante en première année de doctorat dans le laboratoire du Dr Lettre à l'Institut de Cardiologie de Montréal. Ma recherche porte sur l'étude des variants génétiques associés aux maladies cardiovasculaires. Dans mon temps libre j'aime lire, jouer au tennis et sortir avec mes amis !</div>
             </div>
             
             <div class="team-member">
