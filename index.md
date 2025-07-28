@@ -3,14 +3,6 @@ layout: default
 title: Accueil
 ---
 
-<div class="container">
-    <section class="section">
-        <div class="card">
-            <h2>Votre association étudiante</h2>
-            <p style="font-size: 1.1rem; color: #64748b;">L'AESBCSUM regroupe les étudiants aux cycles supérieurs en sciences biomédicales de l'UdeM. Nous organisons des événements de réseautage, offrons du soutien académique et représentons vos intérêts auprès de l'université.</p>
-        </div>
-    </section>
-
     <section class="section">
         <h2 class="section-title">Événements Scientifiques</h2>
         <div class="events-grid">
