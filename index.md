@@ -53,51 +53,53 @@ title: Accueil
         <h2 class="section-title">Comité Exécutif</h2>
         <div class="team-grid">
             <div class="team-member">
-                <img src="president.jpg" alt="Président" class="member-photo">
-                <div class="member-name">[Nom du Président]</div>
+                <img src="Arman.jpg" alt="Président" class="member-photo">
+                <div class="member-name">Arman Sarshoghi</div>
                 <div class="member-role">Président</div>
-                <div class="member-program">Doctorat en [Spécialisation]</div>
-                <div class="member-description">Spécialisé en recherche fondamentale avec expertise en biologie moléculaire et cellulaire.</div>
+                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
+                <div class="member-description">Arman Sarshoghi, Président de l'AESBCSUM. Je suis étudiant en médecine, et je suis dans la dernière année de ma maîtrise en médecine expréimentale. Je travaille au laboratoire du Dr. Liberman au CHUM - et j'explore les mécanismes cellulaires dans la cryoablation du cancer du poumon.</div>
             </div>
             
             <div class="team-member">
-                <img src="vp.jpg" alt="Vice-Président" class="member-photo">
-                <div class="member-name">[Nom du VP]</div>
-                <div class="member-role">Vice-Président</div>
-                <div class="member-program">Maîtrise en [Spécialisation]</div>
-                <div class="member-description">Focus sur les applications cliniques et la recherche translationnelle.</div>
+                <img src="Jennifer.jpg" alt="Vice-Président" class="member-photo">
+                <div class="member-name">Jennifer Zevounou</div>
+                <div class="member-role">Vice-Présidente</div>
+                <div class="member-program">Doctorat en Sciences Biomédicales</div>
+                <div class="member-description">Jennifer Zevounou, Vice Présidente de l'AESBCSUM. Je suis étudiante en première année de doctorat dans le laboratoire du Dr Lettre à l'Institut de Cardiologie de Montréal. Ma recherche porte sur l'étude des variants génétiques associés aux maladies cardiovasculaires. Dans mon temps libre j'aime lire, jouer au tennis et sortir avec mes amis !</div>
             </div>
             
             <div class="team-member">
-                <img src="secretaire.jpg" alt="Secrétaire-Trésorier" class="member-photo">
-                <div class="member-name">[Nom]</div>
-                <div class="member-role">Secrétaire-Trésorier</div>
-                <div class="member-program">Doctorat en [Spécialisation]</div>
-                <div class="member-description">Expertise en gestion de projets de recherche et administration académique.</div>
+                <img src="Bahareh.jpg" alt="Responsable des communications" class="member-photo">
+                <div class="member-name">Baharehsadat Rasouli</div>
+                <div class="member-role">Responsable des communications</div>
+                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
+                <div class="member-description">Baharehsadat Rasouli, la responsable de la communication pour l'AESBSUM. En tant qu'étudiant de première année de maîtrise dans le laboratoire du Professeur Benjamin Haley au Centre de recherche de l'Hôpital Maisonneuve-Rosemont, j'étudie les voies de régulation des miARN en utilisant le génie génétique et la génomique fonctionnelle. Lorsque je ne suis pas au laboratoire, j'aime lire, faire de l'exercice, et passer du temps avec mes amis.
+
+</div>
             </div>
             
             <div class="team-member">
-                <img src="comm.jpg" alt="Responsable Communications" class="member-photo">
-                <div class="member-name">[Nom]</div>
-                <div class="member-role">Communications Scientifiques</div>
-                <div class="member-program">Maîtrise en [Spécialisation]</div>
-                <div class="member-description">Spécialisé en vulgarisation scientifique et relations publiques.</div>
+                <img src="Simon.jpg" alt="Trésorier class="member-photo">
+                <div class="member-name">Simon Lemyre</div>
+                <div class="member-role">Trésorier</div>
+                <div class="member-program">Doctorat en Sciences Biomédicales</div>
+                <div class="member-description">Je suis étudiant au doctorat en sciences biomédicales, option éthique clinique. Mes recherches portent sur la réduction de la souffrance existentielle et systémique des personnes demandant l’aide médicale à mourir. Je suis impliqué dans des projets de recherches interdisciplinaires, notamment dans le CIRAMM. Je valorise l’engagement étudiant, le dialogue inclusif et le développement d’initiatives novatrices. En dehors de mes études, je pratique l'improvisation théâtrale et je m'implique comme bénévole à la ligne d'écoute d'Interligne.</div>
             </div>
             
             <div class="team-member">
-                <img src="events.jpg" alt="Coordinateur Événements" class="member-photo">
-                <div class="member-name">[Nom]</div>
-                <div class="member-role">Coordinateur Événements</div>
-                <div class="member-program">Doctorat en [Spécialisation]</div>
-                <div class="member-description">Organisation d'événements scientifiques et networking professionnel.</div>
+                <img src="AliReza.jpg" alt="Secrétaire" class="member-photo">
+                <div class="member-name">Ali Reza Nemati</div>
+                <div class="member-role">Secrétaire</div>
+                <div class="member-program">Doctorat en Sciences Biomédicales</div>
+                <div class="member-description">Je suis doctorant à l’Université de Montréal, spécialisé en sciences biomédicales – médecine expérimentale. Mes recherches portent sur l’ingénierie tissulaire de l’œsophage, dans le but de créer un œsophage artificiel pour les patients atteints de troubles œsophagiens, tels que l’atrésie œsophagienne chez les nourrissons et le carcinome œsophagien chez les adultes.</div>
             </div>
             
             <div class="team-member">
-                <img src="academique.jpg" alt="Représentant Académique" class="member-photo">
-                <div class="member-name">[Nom]</div>
-                <div class="member-role">Affaires Académiques</div>
-                <div class="member-program">Maîtrise en [Spécialisation]</div>
-                <div class="member-description">Liaison avec l'administration universitaire et défense des droits étudiants.</div>
+                <img src="John.jpg" alt="Responsable des réseaux sociaux" class="member-photo">
+                <div class="member-name">John Mirvens Medor</div>
+                <div class="member-role">Responsable des réseaux sociaux</div>
+                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
+                <div class="member-description">Je suis médecin diplômé hors Canada et actuellement étudiant en Sciences biomédicales à option sciences cardiovasculaires. Je travaille avec mon directeur de recherche Dr Brian Potter au CRCHUM sur l’approche novatrice en choc cardiogénique: du fondamentale à la science d’implantation.</div>
             </div>
         </div>
     </section>
