@@ -60,7 +60,7 @@ title: Accueil
                 <div class="member-role">Vice-Présidente</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
                 <div class="member-description">Je suis étudiante en première année de doctorat dans le laboratoire du Dr Lettre à l'Institut de Cardiologie de Montréal. Ma recherche porte sur l'étude des variants génétiques associés aux maladies cardiovasculaires. Dans mon temps libre j'aime lire, jouer au tennis et sortir avec mes amis !</div>
-                <a href="https://linkedin.com/in/jennifer-zevounou" class="linkedin-bubble" target="_blank">in</a>
+                <a href="https://www.linkedin.com/in/jennifer-zevounou-69321b237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
@@ -69,7 +69,7 @@ title: Accueil
                 <div class="member-role">Responsable des communications</div>
                 <div class="member-program">Maîtrise en Sciences Biomédicales</div>
                 <div class="member-description">Baharehsadat Rasouli, la responsable de la communication pour l'AESBSUM. En tant qu'étudiant de première année de maîtrise dans le laboratoire du Professeur Benjamin Haley au Centre de recherche de l'Hôpital Maisonneuve-Rosemont, j'étudie les voies de régulation des miARN en utilisant le génie génétique et la génomique fonctionnelle. Lorsque je ne suis pas au laboratoire, j'aime lire, faire de l'exercice, et passer du temps avec mes amis.</div>
-                <a href="https://linkedin.com/in/baharehsadat-rasouli" class="linkedin-bubble" target="_blank">in</a>
+                <a href="https://www.linkedin.com/in/bahareh-rasouli-4501b095?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
@@ -78,7 +78,7 @@ title: Accueil
                 <div class="member-role">Trésorier</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
                 <div class="member-description">Je suis étudiant au doctorat en sciences biomédicales, option éthique clinique. Mes recherches portent sur la réduction de la souffrance existentielle et systémique des personnes demandant l'aide médicale à mourir. Je suis impliqué dans des projets de recherches interdisciplinaires, notamment dans le CIRAMM. Je valorise l'engagement étudiant, le dialogue inclusif et le développement d'initiatives novatrices. En dehors de mes études, je pratique l'improvisation théâtrale et je m'implique comme bénévole à la ligne d'écoute d'Interligne.</div>
-                <a href="https://linkedin.com/in/simon-lemyre" class="linkedin-bubble" target="_blank">in</a>
+                <a href="https://www.linkedin.com/in/simon-l-543240120/" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
@@ -87,7 +87,7 @@ title: Accueil
                 <div class="member-role">Secrétaire</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
                 <div class="member-description">Je suis doctorant à l'Université de Montréal, spécialisé en sciences biomédicales – médecine expérimentale. Mes recherches portent sur l'ingénierie tissulaire de l'œsophage, dans le but de créer un œsophage artificiel pour les patients atteints de troubles œsophagiens, tels que l'atrésie œsophagienne chez les nourrissons et le carcinome œsophagien chez les adultes.</div>
-                <a href="https://linkedin.com/in/alireza-nemati" class="linkedin-bubble" target="_blank">in</a>
+                <a href="https://ca.linkedin.com/in/alireza-nemati-831868a9?trk=people-guest_people_search-card" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
@@ -96,7 +96,7 @@ title: Accueil
                 <div class="member-role">Responsable des réseaux sociaux</div>
                 <div class="member-program">Maîtrise en Sciences Biomédicales</div>
                 <div class="member-description">Je suis médecin diplômé hors Canada et actuellement étudiant en Sciences biomédicales à option sciences cardiovasculaires. Je travaille avec mon directeur de recherche Dr Brian Potter au CRCHUM sur l'approche novatrice en choc cardiogénique: du fondamentale à la science d'implantation.</div>
-                <a href="https://linkedin.com/in/john-medor" class="linkedin-bubble" target="_blank">in</a>
+                <a href="https://www.linkedin.com/in/john-mirvens-medor-1302a1157?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="linkedin-bubble" target="_blank">in</a>
             </div>
         </div>
     </section>
