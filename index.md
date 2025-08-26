@@ -139,10 +139,10 @@ title: Accueil
             <a href="mailto:aesbcsum@gmail.com" class="contact-button">Contactez-Nous</a>
             
             <div class="social-links">
-                <a href="https://instagram.com/aesbcsum" class="social-icon instagram" target="_blank" title="Suivez-nous sur Instagram">
+                <a href="https://www.instagram.com/aesbcs_um/" class="social-icon instagram" target="_blank" title="Suivez-nous sur Instagram">
                     📷
                 </a>
-                <a href="https://facebook.com/aesbcsum" class="social-icon facebook" target="_blank" title="Rejoignez-nous sur Facebook">
+                <a href="https://www.facebook.com/groups/1198446220269793/" class="social-icon facebook" target="_blank" title="Rejoignez-nous sur Facebook">
                     📘
                 </a>
             </div>
