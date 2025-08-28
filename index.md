@@ -46,7 +46,7 @@ title: Accueil
         <h2 class="section-title">Comité Exécutif</h2>
         <div class="team-grid">
             <div class="team-member">
-                <img src="Arman.jpg" alt="Président" class="member-photo">
+                <img src="Arman.jpeg" alt="Président" class="member-photo">
                 <div class="member-name">Arman Sarshoghi</div>
                 <div class="member-role">Président</div>
                 <div class="member-program">Maîtrise en Sciences Biomédicales</div>
