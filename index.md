@@ -46,58 +46,50 @@ title: Accueil
         <h2 class="section-title">Comité Exécutif</h2>
         <div class="team-grid">
             <div class="team-member">
-                <img src="Arman.jpeg" alt="Président" class="member-photo">
-                <div class="member-name">Arman Sarshoghi</div>
-                <div class="member-role">Président</div>
-                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
-                <div class="member-description">Je suis étudiant en médecine, et je suis dans la dernière année de ma maîtrise en médecine expérimentale. Je travaille au laboratoire du Dr. Liberman au CHUM - et j'explore les mécanismes cellulaires dans la cryoablation du cancer du poumon.</div>
-                <a href="https://linkedin.com/in/arman-sarshoghi" class="linkedin-bubble" target="_blank">in</a>
-            </div>
-            
-            <div class="team-member">
-                <img src="Jennifer.jpg" alt="Vice-Présidente" class="member-photo">
+                <img src="Jennifer.jpg" alt="Présidente" class="member-photo">
                 <div class="member-name">Jennifer Zevounou</div>
-                <div class="member-role">Vice-Présidente</div>
+                <div class="member-role">Présidente</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
-                <div class="member-description">Je suis étudiante en première année de doctorat dans le laboratoire du Dr Lettre à l'Institut de Cardiologie de Montréal. Ma recherche porte sur l'étude des variants génétiques associés aux maladies cardiovasculaires. Dans mon temps libre j'aime lire, jouer au tennis et sortir avec mes amis !</div>
+                <div class="member-description">Salut, je m'appelle Jennifer, je suis étudiante en deuxième année de doctorat en Sciences Biomédicales. Je conduis mes travaux de recherche à l'Institut de Cardiologie de Montréal dans le laboratoire du Dr Lettre où nous étudions les fonctions des variants génétiques associés aux maladies cardiovasculaires sur la fonction endothéliales. Dans mon temps libre, j'aime lire, jouer au tennis, et tout ce qui touche à l'art.</div>
                 <a href="https://www.linkedin.com/in/jennifer-zevounou-69321b237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
-                <img src="Bahareh.jpg" alt="Responsable des communications" class="member-photo">
-                <div class="member-name">Baharehsadat Rasouli</div>
-                <div class="member-role">Responsable des communications</div>
-                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
-                <div class="member-description">Baharehsadat Rasouli, la responsable de la communication pour l'AESBSUM. En tant qu'étudiant de première année de maîtrise dans le laboratoire du Professeur Benjamin Haley au Centre de recherche de l'Hôpital Maisonneuve-Rosemont, j'étudie les voies de régulation des miARN en utilisant le génie génétique et la génomique fonctionnelle. Lorsque je ne suis pas au laboratoire, j'aime lire, faire de l'exercice, et passer du temps avec mes amis.</div>
-                <a href="https://www.linkedin.com/in/bahareh-rasouli-4501b095?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="linkedin-bubble" target="_blank">in</a>
-            </div>
-            
-            <div class="team-member">
-                <img src="Simon.jpg" alt="Trésorier" class="member-photo">
-                <div class="member-name">Simon Lemyre</div>
-                <div class="member-role">Trésorier</div>
+                <img src="Diarra.jpg" alt="Vice-Présidente" class="member-photo">
+                <div class="member-name">Diarra B. Ba</div>
+                <div class="member-role">Vice-Présidente</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
-                <div class="member-description">Je suis étudiant au doctorat en sciences biomédicales, option éthique clinique. Mes recherches portent sur la réduction de la souffrance existentielle et systémique des personnes demandant l'aide médicale à mourir. Je suis impliqué dans des projets de recherches interdisciplinaires, notamment dans le CIRAMM. Je valorise l'engagement étudiant, le dialogue inclusif et le développement d'initiatives novatrices. En dehors de mes études, je pratique l'improvisation théâtrale et je m'implique comme bénévole à la ligne d'écoute d'Interligne.</div>
-                <a href="https://www.linkedin.com/in/simon-l-543240120/" class="linkedin-bubble" target="_blank">in</a>
+                <div class="member-description">Moi c’est Diarra Bocar Ba, doctorante en sciences biomédicales à l’Institut de cardiologie de Montréal, où je travaille sur l’insuffisance cardiaque. Curieuse et passionnée, j’aime voyager, découvrir de nouvelles cuisines, apprécier l’art ethnique et discuter des grands enjeux de société, notamment des dynamiques de genre. À mes heures perdues, j’aime écouter de la musique et m’adonner à des activités à sensations fortes.</div>
+                <a href="" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
             <div class="team-member">
-                <img src="AliReza.jpg" alt="Secrétaire" class="member-photo">
-                <div class="member-name">Ali Reza Nemati</div>
+                <img src="Jade.jpg" alt="Secrétaire" class="member-photo">
+                <div class="member-name">Jade Laurent-Le Bras</div>
                 <div class="member-role">Secrétaire</div>
+                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
+                <div class="member-description">Je suis étudiante à la maîtrise en médecine expérimentale dans le laboratoire du Dr. Campeau au CHU Sainte-Justine. Ma recherche porte sur le développement d’une thérapie génique pour la maladie neurodégénérative de Sanfilippo. En dehors du laboratoire, je suis soit en train de peindre, courir ou de découvrir des nouveaux spots avec mes amis. Hâte de vous accueillir à nos prochains événements à l'AESBSCUM!</div>
+                <a href="[https://www.linkedin.com/in/bahareh-rasouli-4501b095?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/jade-laurent-le-bras-6395201b5/?originalSubdomain=ca)" class="linkedin-bubble" target="_blank">in</a>
+            </div>
+            
+            <div class="team-member">
+                <img src="Elisha.jpg" alt="Secrétaire" class="member-photo">
+                <div class="member-name">Elisha Chacowry</div>
+                <div class="member-role">Secrétaire</div>
+                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
+                <div class="member-description">Etudiante en première année de maîtrise dans le laboratoire de Dr Pincez, au CHU Sainte Justine, j’étudie l’impact des déterminants génétiques de la mère sur les traits sanguins du nouveau-né ainsi que les effets sur sa santé- notamment les anomalies hématologiques. Nouvellement arrivée à Montréal j’apprécie découvrir la ville et ce qu’elle a offrir. Hormis cela, dans mon temps libre, j’aime beaucoup pâtisser et faire du sport.</div>
+                <a href="" class="linkedin-bubble" target="_blank">in</a>
+            </div>
+            
+            <div class="team-member">
+                <img src="AliReza.jpg" alt="Trésorier et Responsable des réseaux sociaux" class="member-photo">
+                <div class="member-name">Ali Reza Nemati</div>
+                <div class="member-role">Trésorier et Responsable des résaeux sociaux</div>
                 <div class="member-program">Doctorat en Sciences Biomédicales</div>
                 <div class="member-description">Je suis doctorant à l'Université de Montréal, spécialisé en sciences biomédicales – médecine expérimentale. Mes recherches portent sur l'ingénierie tissulaire de l'œsophage, dans le but de créer un œsophage artificiel pour les patients atteints de troubles œsophagiens, tels que l'atrésie œsophagienne chez les nourrissons et le carcinome œsophagien chez les adultes.</div>
                 <a href="https://ca.linkedin.com/in/alireza-nemati-831868a9?trk=people-guest_people_search-card" class="linkedin-bubble" target="_blank">in</a>
             </div>
             
-            <div class="team-member">
-                <img src="John.jpg" alt="Responsable des réseaux sociaux" class="member-photo">
-                <div class="member-name">John Mirvens Medor</div>
-                <div class="member-role">Responsable des réseaux sociaux</div>
-                <div class="member-program">Maîtrise en Sciences Biomédicales</div>
-                <div class="member-description">Je suis médecin diplômé hors Canada et actuellement étudiant en Sciences biomédicales à option sciences cardiovasculaires. Je travaille avec mon directeur de recherche Dr Brian Potter au CRCHUM sur l'approche novatrice en choc cardiogénique: du fondamentale à la science d'implantation.</div>
-                <a href="https://www.linkedin.com/in/john-mirvens-medor-1302a1157?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="linkedin-bubble" target="_blank">in</a>
-            </div>
         </div>
     </section>
 
