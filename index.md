@@ -64,7 +64,7 @@ title: Accueil
             </div>
             
             <div class="team-member">
-                <img src="Jade.jpg" alt="Secrétaire" class="member-photo">
+                <img src="Jade.jpeg" alt="Secrétaire" class="member-photo">
                 <div class="member-name">Jade Laurent-Le Bras</div>
                 <div class="member-role">Secrétaire</div>
                 <div class="member-program">Maîtrise en Sciences Biomédicales</div>
